@@ -42,7 +42,7 @@ void limpiarPuntuacion(char* texto) {
            texto[longitud-1] == ';' || texto[longitud-1] == '(' || texto[longitud-1] == ')')) {
         texto[longitud-1] = '\0';
         longitud--;
-    }
+    
 }
 
 int buscarPalabra(char lista[][TAMTOKEN], int total, const char* palabra) {

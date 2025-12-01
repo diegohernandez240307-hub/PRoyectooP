@@ -2,11 +2,11 @@
 	UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 
-	Computadoras y programacion. 
-	323261070 Hernandez Romero Diego
-
-	Corrector Ortografico - Distancia de Levenstein
+	Computadoras y programacion.
 	
+	323261070 Hernandez Romero Diego
+Corrector Ortografico - Distancia de Levenstein
+
 ******************************************************************************************************************/
 
 #include <iostream>

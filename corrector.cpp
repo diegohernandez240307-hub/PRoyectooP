@@ -14,7 +14,7 @@ Corrector Ortografico - Distancia de Levenstein
 #include <cctype>
 #include "corrector.h"
 using namespace std;
-const char LETRAS[] = {
+const char LETRAs[] = {
     'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
     (char)0xF1, 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
     (char)0xE1, (char)0xE9, (char)0xED, (char)0xF3, (char)0xFA, '\0'

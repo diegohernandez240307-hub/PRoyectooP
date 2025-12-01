@@ -3,9 +3,8 @@
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 
 	Computadoras y programacion. 
-	
 	323261070 Hernandez Romero Diego
-	
+
 	Corrector Ortografico - Distancia de Levenstein
 	
 ******************************************************************************************************************/
@@ -23,6 +22,7 @@ const char LETRAS[] = {
     (char)0xE1, (char)0xE9, (char)0xED, (char)0xF3, (char)0xFA, '\0'
 };
 const int TOTAL_LETRAS = 32;
+
 
 void convertirMinusculas(char* texto) {
     for (int i = 0; texto[i] != '\0'; i++) {

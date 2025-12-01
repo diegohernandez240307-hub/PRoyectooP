@@ -3,7 +3,7 @@
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 Computadoras y programacion.
 	
-	323261070 Hernandez Romero Diego
+	323261070 Hernandez Diego
 Corrector Ortografico - Distancia de Levenstein
 
 ******************************************************************************************************************/
